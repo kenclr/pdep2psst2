@@ -1,4 +1,4 @@
-Contributors for Version 1 of Supersenses
+Contributors
 
 * Nathan Schneider
 * Vivek Srikumar
