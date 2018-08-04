@@ -9,11 +9,11 @@ This paper is a __working paper__. It describes several steps that have been tak
 
 Files
 -----
-- ACKNOWLEDGMENTS.md: Contributors inspiring this research
+- ACKNOWLEDGMENTS.md: Contributors
 
 Initial Data
 ------------
-- pp-begin.txt: 2484 entries beginning with a PDEP preposition (potentially idiomatic), with senses, a part of speech, and a definition
+- prepwiki.json: Data used to fill the PDEP supersense field, using the TPP_PSST element identifying TPP senses and their supersenses, to synchonize PDEP and prepwiki (<http://www.clres.com/db/syncpsst.php>). Also used PSST_SHORT_DEFS as the 75 supersense definitions in psst-v1-defs.txt.
 - pp-final.txt: 2785 entries ending with a PDEP preposition (potentially idiomatic), with senses, a part of speech, and a definition
 
 Data for Beginning PP Idioms
