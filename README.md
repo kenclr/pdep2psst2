@@ -16,20 +16,10 @@ Initial Data
 - prepwiki.json: Data used to fill the PDEP supersense field, using the TPP_PSST element identifying TPP senses and their supersenses, to synchonize PDEP and prepwiki (<http://www.clres.com/db/syncpsst.php>). Also used PSST_SHORT_DEFS as the 75 supersense definitions in psst-v1-defs.txt.
 - pp-final.txt: 2785 entries ending with a PDEP preposition (potentially idiomatic), with senses, a part of speech, and a definition
 
-Data for Beginning PP Idioms
-----------------------------
-
-Data for Ending PP Idioms
--------------------------
-
-Data for PP Idioms in Streusle Corpus
+Data for Mapping v1 to v2 Supersenses
 -------------------------------------
-- Streusle-4.0.PPIdioms.parse: The 170 lines from the Streusle parses that have a LEXLEMMA PP (13th column), indicating that the annotators felt the presence of PP idiom
-- Streusle-4.0.PPIdioms-sorted.tsv: Parsed lines from above sorting the PP idioms
-- Streusle-4.0.PPIdioms-unique.tsv: List of the 95 unique idioms in these lines
-- Streusle-4.0.PPIdioms-stats.tsv: Statistics about the 95 idioms: a count of their frequency, whether having different role and function supersenses, whether found in a dictionary, and comments about the idiom if not found in the dictionary
-- Streusle-4.0.PPIdioms-analysis.tsv: Summary analysis for each idiom whether found and analysis in two dictionaries
-- Streusle-4.0.PPIdioms-construal.tsv: Role and function supersenses for each idiom (highlighting differences)
+- psst-v1-defs.txt: Short definitions for the 75 v1 supersenses
+
 
 Reference
 ---------
