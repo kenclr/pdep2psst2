@@ -1,0 +1,75 @@
+1DTrajectory	One-dimensional path that is the location traversed.
+2DArea	Two-dimensional area that is the location traversed.
+3DMedium	Three-dimensional medium that is traversed through.
+Accompanier	Entity that another entity is together with.
+Activity	Action that an agent undertakes for a period of time.
+Affector	Abstract macro-role.
+Age	Something's age.
+Agent	Animate/volitional/intentional instigator of an action.
+Approximator	Measurement, quantity, or range being "transformed" by the preposition.
+Attribute	Characteristic, feature, part, or possessum of an entity.
+Beneficiary	Animate or personified undergoer that is (potentially) advantaged or disadvantaged by the event or state.
+Causer	Force/party that precipitates an event (and is a central participant of it).
+Circumstance	Macro-role. Used directly for occasions and contextualizations.
+ClockTimeCxn	In constructions for telling time, the hour part.
+Co-Agent	Participant acting symmetrically with the agent.
+Co-Participant	Core participant portrayed as secondary.
+Co-Patient	Undergoer symmetrical to the Patient.
+Co-Theme	Undergoer symmetrical to the Theme.
+Comparison/Contrast	Point of comparison, analogy, imitation, or contrast/distinction.
+Configuration	Abstract macro-role for static configurational relationships typically between nominals.
+Contour	Path shape.
+Course	Pathway used for travel.
+Creator	Participant that has created something new.
+DeicticTime	Earlier or later time expressed by the length of an interval relative to an implicit reference time.
+Destination	Endpoint (actual or intended) of physical motion. Excludes prepositions that also mark simple Locations.
+Direction	Orientation or heading of a figure, without implying a specific starting or ending point of the path.
+Donor/Speaker	Animate starting point in a transfer scenario; counterpart to Recipient.
+Duration	Temporal length of an event, or temporally overlapping reference event.
+Elements	Member or non-member of a set of discrete items.
+EndState	Result of a change or endpoint of a range on a scale.
+EndTime	When an event ends.
+Experiencer	Patient that is aware of the event undergone (specific to events of perception).
+Explanation	Secondary event that is asserted as the reason for the main event.
+Extent	Size of a path.
+Frequency	Temporal rate or repetitions.
+Function	The function that an entity serves, or for which it was made.
+Goal	Abstract intended endpoint or outcome.
+InitialLocation	Locative origin or starting point of physical motion.
+Instance	''X '''of''' Y'', where ''X'' is a category that disambiguates or reframes (a more specific thing) ''Y''.
+Instrument	Thing that enables or facilitates achieving some purpose.
+Location	Concrete location.
+Locus	Abstract location.
+Manner	How something happens.
+Material	Ingredients/material from which something is made.
+Means	An activity that facilitates achieving some purpose.
+Participant	Abstract macro-role.
+Path	Abstract region between an initial position and a final position.
+Patient	Undergoer in an event that experiences a change of state, location or condition, that is causally involved or directly affected by other participants, and exists independently of the event.
+Place	Abstract macro-role.
+Possessor	Possessor of an entity (including kin) or attribute.
+ProfessionalAspect	Entity with which an individual is formally associated in a social/professional scenario such as employment or membership.
+Purpose	Something that somebody wants to bring about.
+Quantity	X of Y, where Y is a category and X establishes how much of Y there is (or how many Ys there are). X may be an amount, collective noun, or measure phrase.
+Recipient	Animate intended recipient of something concrete or abstract. Includes addressees.
+Reciprocation	Action provoking a response/reaction (often judgment-laden, but not merely psychological) that is the main event.
+RelativeTime	Time before or after some reference point.
+Scalar/Rank	Point of comparison on a continuous or discrete scale (such as an ordering or ranking).
+Source	Abstract starting point.
+Species	A category qualified by ''species'', ''breed'', ''kind'', ''type'', ''variety'', etc.
+StartState	Initial state or beginning of a range on a scale.
+StartTime	Time an event begins.
+State	State of affairs.
+Stimulus	That which is perceived or experienced (bodily, perceptually, or emotionally).
+Superset	The object of the preposition is a set of discrete elements or mass quantity of which the governor is a member, subset, or sub-quantity.
+Temporal	Macro-role for temporal characteristics.
+Theme	Central undergoer that is not in control over the event, not structurally changed by the event, and/or is characterized as being in a certain position or condition.
+Time	Point in time.
+Topic	Information content in communication or "high-level" cognition.
+Transit	Conveyance/vehicle that the entity occupies in order to get from one place to another.
+Traversed	Location traversed in a path.
+Undergoer	Abstract macro-role.
+Value	Point on a formal scale.
+ValueComparison	Value being compared to some other value on a scale.
+Via	Path/instrument that enables concrete or abstract entities (including information, etc.) to get from one place to another.
+Whole	Complete or complex whole entity.
