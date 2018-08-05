@@ -1,0 +1,581 @@
+1DTrajectory	across	1(1)	from one side to the other of (a place, area, etc.)
+1DTrajectory	along	1(1)	moving in a constant direction on (a more or less horizontal surface)
+1DTrajectory	along	3(2)	extending in a more or less horizontal line on
+1DTrajectory	around	4(3)	following an approximately circular route
+1DTrajectory	around	5(4)	so as to encircle or embrace (someone or something)
+1DTrajectory	by	19(5a)	past and beyond
+1DTrajectory	down	1(1)	from a higher to a lower point of (something)
+1DTrajectory	o'er	11(4)	expressing passage or trajectory across
+1DTrajectory	o'er	12(4a)	beyond and falling or hanging from
+1DTrajectory	over	11(4)	expressing passage or trajectory across
+1DTrajectory	over	12(4a)	beyond and falling or hanging from
+1DTrajectory	past	2(1a)	in front of or from one side to the other of
+1DTrajectory	round	4(2a)	(of a person's arm or arms) partially encircling (another person) as a gesture of affection
+1DTrajectory	round	5(3)	following an approximately circular route past (a corner or obstacle)
+1DTrajectory	thro'	1(1)	moving in one side and out of the other side of (an opening, channel, or location)
+1DTrajectory	thro'	10(3)	so as to inspect all or part of (a collection, inventory, or publication)
+1DTrajectory	thro'	2(1a)	so as to make a hole or opening in (a physical object)
+1DTrajectory	thro'	4(1c)	so as to be perceived from the other side of (an intervening obstacle)
+1DTrajectory	through	1(1)	moving in one side and out of the other side of (an opening, channel, or location)
+1DTrajectory	through	10(3)	so as to inspect all or part of (a collection, inventory, or publication)
+1DTrajectory	through	12(5)-1	used to denote two things that can interconnect
+1DTrajectory	through	2(1a)	so as to make a hole or opening in (a physical object)
+1DTrajectory	through	4(1c)	so as to be perceived from the other side of (an intervening obstacle)
+1DTrajectory	thru	1(1)	moving in one side and out of the other side of (an opening, channel, or location)
+1DTrajectory	thru	10(3)	so as to inspect all or part of (a collection, inventory, or publication)
+1DTrajectory	thru	2(1a)	so as to make a hole or opening in (a physical object)
+1DTrajectory	thru	4(1c)	so as to be perceived from the other side of (an intervening obstacle)
+1DTrajectory	up	1(1)	from a lower to a higher point of (something)
+1DTrajectory,2DArea	about	3(2)-1	around
+2DArea	about	3(2)	used to indicate movement within a particular area
+2DArea	round	8(4)	so as to cover or take in the whole area of (a place)
+2DArea,State	around	3(2)	in or to many places throughout (a community or locality)
+3DMedium	thro'	10(3)-1	thro'out (a place)
+3DMedium	thro'	3(1b)	moving around or from one side to the other within (a crowd or group)
+3DMedium	through	10(3)-1	throughout (a place)
+3DMedium	through	3(1b)	moving around or from one side to the other within (a crowd or group)
+3DMedium	thru	10(3)-1	thruout (a place)
+3DMedium	thru	3(1b)	moving around or from one side to the other within (a crowd or group)
+3DMedium	with	15(9)	in the same direction as
+Accompanier	along with	1(1)	in company with or at the same time as
+Accompanier	plus	2(1a)	together with
+Accompanier	together with	1(1)	as well as; along with
+Accompanier	without	1(1)	in the absence of
+Accompanier,Co-Participant	with	1(1)	accompanied by (another person or thing)
+Activity	at	8(4a)	expressing a relationship between an individual and a skill
+Activity	frae	11(8)	indicating prevention
+Activity	into	9(9)	(of a person) taking a lively and active interest in (something)
+Activity	on	19(9)	engaged in
+Activity	'pon	19(9)	engaged in
+Activity	up to	7(5)	occupied or busy with
+Activity	upon	19(9)	engaged in
+Activity,Attribute,Patient,Stimulus,Topic	in	6(4a)	indicating the quality or aspect with respect to which a judgement is made
+Activity,Co-Theme,Beneficiary,Recipient,Theme,Topic	with	9(7)	in relation to
+Activity,Locus,Superset	in	7(5)	expressing inclusion or involvement
+Age	at	6(3a)	referring to someone's age
+Age	o'	5(2a)	used to indicate a person's age in months or years
+Age	of	5(2a)	used to indicate a person's age in months or years
+Age,State	in	5(4)	(often followed by a noun without a determiner) expressing a state or condition
+Agent	by	1(1)	through the agency or action of
+Agent	by	3(1b)	(after a noun denoting an action) through the agency or action of
+Agent,Causer,Stimulus	by	2(1a)	(after a passive verb) through the agency or action of
+Agent,Possessor	of	11(6)	expressing the relationship between an abstract concept having a verb-like meaning and a noun denoting the subject of the underlying verb
+Approximator	between	3(3)	in the interval separating (two points on a scale)
+Approximator	betwixt	3(3)	in the interval separating (two points on a scale)
+Approximator	minus	3(2)	(of temperature) below zero by
+Approximator	o'er	10(3)	higher or more than (a specified number or quantity)
+Approximator	over	10(3)	higher or more than (a specified number or quantity)
+Approximator	plus	3(2)	(of temperature) above zero
+Approximator	under	7(3)	lower than (a specified amount, rate, or norm)
+Approximator,Time	circa	1(1)	approximately at, in, or of (a year or other expression of time)
+Attribute	as	1(1)	used to refer to the function or character that someone or something has
+Attribute	by	15(3c)	identifying a parameter
+Attribute	in	1(1)-1	used to indicate articles being worn
+Attribute	in	10(7a)	indicating the key in which a piece of music is written
+Attribute	in	9(7)	indicating the language or medium used
+Attribute	in	9(7)-1	used to indicate a variable quality in clothing or personal items
+Attribute	o'	6(3)-1	used to indicate a quality or defining characteristic
+Attribute	of	6(3)-1	used to indicate a quality or defining characteristic
+Attribute	with	10(7a)	affected by (a particular fact or condition)
+Attribute	with	2(2)	having or possessing (something)
+Attribute	with	3(2a)	wearing or carrying
+Attribute,Elements	minus	2(1a)	lacking; deprived of
+Attribute,Function,Purpose,Theme	for	5(4)	having (the thing mentioned) as a purpose or function
+Attribute,Instrument	without	3(2)	not having the use or benefit of
+Attribute,Stimulus,Topic	about	1(1)	on the subject of; concerning
+Beneficiary	against	2(1a)	in opposition to (a litigant, legal case, or legal position)
+Beneficiary	agin	2(1a)	in opposition to (a litigant, legal case, or legal position)
+Beneficiary	for	3(3)	on behalf of or to the benefit of
+Beneficiary	'gainst	2(1a)	in opposition to (a litigant, legal case, or legal position)
+Beneficiary	on	11(5)-1	denoting the party or object affected by or experiencing a state or feeling
+Beneficiary	'pon	11(5)-1	denoting the party or object affected by or experiencing a state or feeling
+Beneficiary	upon	11(5)-1	denoting the party or object affected by or experiencing a state or feeling
+Beneficiary,Donor/Speaker	by	21(7)	concerning; according to
+Beneficiary,Experiencer	for	2(2)-1	on the part of (someone or something)
+Beneficiary,Experiencer,Patient	to	8(3)-1	identifying the person or thing affected by or receiving something
+Beneficiary,Experiencer,Theme,Topic	for	1(1)	in support of or in favor of (a person or policy)
+Beneficiary,Goal,Recipient	to	8(3)	identifying the person or thing affected by or receiving something
+Beneficiary,Topic	toward	4(2)	expressing the relation between a behavior and the person or thing at which it is directed
+Beneficiary,Topic	towards	4(2)	expressing the relation between a behavior and the person or thing at which it is directed
+Cause	frae	12(9)	indicating a cause
+Cause	o'	16(7b)	(for maladies, diseases and afflctions) because of
+Causer	from	12(9)	indicating a cause
+Causer	with	12(7c)	because of (something) and as it happens
+Causer,Stimulus	of	16(7b)	(for maladies, diseases and afflctions) because of
+Circumstance	according to	2(1a)	in a manner corresponding or conforming to
+Circumstance	according to	3(1b)	in proportion to; in relation to
+Circumstance	depending on	1(1)	according to
+Circumstance	despite	1(1)	without being affected by; in spite of
+Circumstance	in accord with	1(1)	according to
+Circumstance	in keeping with	1(1)	in harmony or conformity with
+Circumstance	in line with	1(1)	in alignment or accordance with
+Circumstance	in spite of	1(1)	without being affected by
+Circumstance	in	11(8)	as an integral part of (an activity)
+Circumstance	pursuant to	1(1)	in accordance with (a law or a legal document or resolution)
+Circumstance	regardless of	1(1)	without regard or consideration for
+Circumstance	with	1(1)-1	denoting circumstances that accompany some action or event
+Circumstance,Explanation,Purpose,Reciprocation	for	6(5)	having (the thing mentioned) as a reason or cause
+Circumstance,Manner	without	2(1a)	in circumstances in which the action mentioned does not happen
+Circumstance,State	under	11(4c)	as provided for by the rules of; in accordance with
+ClockTimeCxn	after	3(1b)	past
+ClockTimeCxn	o'	18(9)	expressing time in relation to the following hour
+ClockTimeCxn	of	18(9)	expressing time in relation to the following hour
+ClockTimeCxn	to	4(1c)	(in telling the time) before (the hour specified)
+ClockTimeCxn,RelativeTime	past	3(2)	beyond in time; later than
+Co-Agent	against	3(1b)	in competition with
+Co-Agent	agin	3(1b)	in competition with
+Co-Agent	by	9(2d)	indicating the other parent of someone's child or children
+Co-Agent	'gainst	3(1b)	in competition with
+Co-Agent	with	6(4)	in opposition to
+Co-Agent,Co-Theme	between	4(4)	indicating a connection or relationship involving two or more parties
+Co-Agent,Co-Theme,Co-Patient	between	5(4a)	with reference to a collision or conflict
+Co-Agent,Co-Theme,Co-Patient	betwixt	4(4)	indicating a connection or relationship involving two or more parties
+Co-Agent,Co-Theme,Co-Patient	betwixt	5(4a)	with reference to a collision or conflict
+Comparison/Contrast	after	10(5a)	in imitation of
+Comparison/Contrast	after	9(5)	in allusion to (someone or something with the same or a related name)
+Comparison/Contrast	against	8(3)	in conceptual contrast to
+Comparison/Contrast	agin	8(3)	in conceptual contrast to
+Comparison/Contrast	beside	2(1a)	compared with
+Comparison/Contrast	between	6(4b)	with reference to a contrast or failure to correspond
+Comparison/Contrast	betwixt	6(4b)	with reference to a contrast or failure to correspond
+Comparison/Contrast	frae	14(11)	indicating a distinction
+Comparison/Contrast	from	14(11)	indicating a distinction
+Comparison/Contrast	from	7(4a)	indicating one extreme in a range of conceptual variations
+Comparison/Contrast	'gainst	8(3)	in conceptual contrast to
+Comparison/Contrast	instead of	1(1)	as a substitute or alternative to; in place of
+Comparison/Contrast	like	1(1)	having the same characteristics or qualities as; similar to
+Comparison/Contrast	like	2(1a)	in the manner of; in the same way or to the same degree as
+Comparison/Contrast	like	3(1b)	in a way appropriate to
+Comparison/Contrast	more like	1(1)	nearer to (a specified number or description) than one previously given
+Comparison/Contrast	near	5(4)	similar to
+Comparison/Contrast	next to	4(4)	in comparison with
+Comparison/Contrast	than	2(2)	used in expressions introducing an exception or contrast
+Comparison/Contrast	to	15(7)	used to introduce the second element in a comparison
+Comparison/Contrast	unlike	1(1)	different from; not similar to
+Comparison/Contrast	unlike	2(1a)	in contrast to; differently from
+Comparison/Contrast	versus	2(1a)	as opposed to; in contrast to
+Comparison/Contrast,EndState,EndTime	to	3(1b)	expressing a point reached at the end of a range or after a period of time
+Contour,Manner	in	6(4a)-1	indicating the manner in which or the degree to which something happens
+Co-Theme	to	13(5)	indicating that two things are attached or linked
+Co-Theme,InitialLocation,StartState	frae	10(7)	indicating separation or removal
+Co-Theme,InitialLocation,StartState	from	10(7)	indicating separation or removal
+Co-Theme,ProfessionalAspect	to	9(4)	identifying a particular relationship between one person and another
+Co-Theme,Theme	for	9(8)	in place of or in exchange for
+Course	thro'	5(1d)-1	by way of (a place)
+Course	through	5(1d)-1	by way of (a place)
+Course	thru	5(1d)-1	by way of (a place)
+Course	via	1(1)	travelling through (a place) en route to a destination
+Course,Location	down	2(1a)	at or to the part of (a river or stream) that is nearer the sea
+Course,Location	down	3(1b)	moving or at a point further along the course of (something)
+Course,Location	up	2(1a)	to a higher part of (a river or stream), away from the sea
+Course,Location	up	3(2)	along or further along (a street or road)
+Course,Means,Via	thro'	12(5)	by means of (a process or intermediate stage)
+Course,Means,Via	through	12(5)	by means of (a process or intermediate stage)
+Course,Means,Via	thru	12(5)	by means of (a process or intermediate stage)
+Course,Transit	by	8(2c)	indicating the means of transport selected for a journey
+Creator	by	4(1c)	from the hand, mind, or inventive capacity of
+Creator	of	7(3a)	expressing the relationship between an author, artist, or composer and their works collectively
+DeicticTime	in	4(3)	expressing the length of time before a future event is expected to happen
+DeicticTime	inside	5(2)	in less than (the period of time specified)
+DeicticTime	within	6(3)	occurring inside (a particular period of time)
+DeicticTime,Duration	for	12(10)	indicating the length of (a period of time)
+DeicticTime,Location	agin	10(4)	in or into physical contact with (something), so as to be supported by or collide with it
+DeicticTime,Location	'gainst	10(4)	in or into physical contact with (something), so as to be supported by or collide with it
+DeicticTime,RelativeTime	afore	1(1)	during the period of time preceding (a particular event or time)
+DeicticTime,RelativeTime	before	1(1)	during the period of time preceding (a particular event or time)
+DeicticTime,RelativeTime	fore	1(1)	during the period of time preceding (a particular event or time)
+DeicticTime,Time	in	3(2)	expressing a period of time during which an event happens or a situation remains the case
+Destination	into	1(1)	expressing movement or action with the result that someone or something becomes enclosed or surrounded by something else
+Destination	into	2(2)	to a position of contact with
+Destination	into	3(3)	indicating a route by which someone or something may arrive at a particular destination
+Destination	o'er	15(6)-1	by means of the resistant surface constituted by (an object)
+Destination	onto	1(1)	moving to a location on the surface of
+Destination	onto	2(2)	moving aboard (a vehicle) with the intention of travelling in it
+Destination	over	15(6)-1	by means of the resistant surface constituted by (an object)
+Destination	'pon	16(7b)	on to (a public vehicle) with the intention of travelling in it
+Destination	'pon	5(1d)	on to
+Destination	round	7(3b)	so as to hit (something) in passing
+Destination	to	1(1)	expressing motion in the direction of (a particular location)
+Destination	up to	1(1)	as far as
+Destination	upon	16(7b)	on to (a public vehicle) with the intention of travelling in it
+Destination	upon	5(1d)	on to
+Destination,Locus	'pon	12(6)	(often followed by a noun without a determiner) having (the thing mentioned) as a medium for transmitting or storing information
+Destination,Locus	upon	12(6)	(often followed by a noun without a determiner) having (the thing mentioned) as a medium for transmitting or storing information
+Destination,Time	for	7(6)	having (the place mentioned) as a destination
+Destinaton,1DTrajectory	thro'	12(5)-1	used to denote two things that can interconnect
+Destinaton,1DTrajectory	thru	12(5)-1	used to denote two things that can interconnect
+Direction	after	6(2a)	(with reference to looking or speaking) in the direction of someone who is moving further away
+Direction	at	10(5a)	expressing an incomplete or attempted action, typically involving repeated movements
+Direction	into	4(4)	in the direction of
+Direction	toward	1(1)	in the direction of
+Direction	towards	1(1)	in the direction of
+Direction,InitialLocation,Source	off	4(3)	so as to be removed or separated from
+Donor/Speaker,InitialLocation,Location,ProfessionalAspect,Source,Super	from	4(3)	indicating the source or provenance of someone or something
+Donor/Speaker,Source	from	12(9)-1	by or on the part of (someone or something)
+Duration	across	1(1)-1	used to indicate a period of time begun while some activity continues
+Duration	down	5(2)	throughout (a period of time)
+Duration	during	1(1)	throughout the course or duration of (a period of time)
+Duration	during	2(1a)	at a particular point in the course of
+Duration	into	1(1)-1	used to indicate a period of time begun while some activity continues
+Duration	o'er	14(5)	expressing duration
+Duration	over	14(5)	expressing duration
+Duration	thro'	7(2)	continuing in time towards completion of (a process or period)
+Duration	thro'	9(2b)	from beginning to end of (an experience or activity, typically a tedious or stressful one)
+Duration	through	7(2)	continuing in time towards completion of (a process or period)
+Duration	through	9(2b)	from beginning to end of (an experience or activity, typically a tedious or stressful one)
+Duration	throughout	2(1a)	from beginning to end of (an event or period of time)
+Duration	thru	7(2)	continuing in time towards completion of (a process or period)
+Duration	thru	9(2b)	from beginning to end of (an experience or activity, typically a tedious or stressful one)
+Duration,State	in the midst of	1(1)	engaged in or undergoing a process of
+Elements	apart from	1(1)	except for
+Elements	apart from	2(2)	in addition to; as well as
+Elements	aside from	1(1)	apart from
+Elements	besides	1(1)	in addition to; apart from
+Elements	beyond	9(5)	apart from; except
+Elements	but	1(1)	except; apart from; other than
+Elements	except for	1(1)	not including; other than
+Elements	except	1(1)	not including; other than
+Elements	in addition to	1(1)	besides
+Elements	like	7(3)	such as; for example
+Elements	on top of	4(3)	in addition to
+Elements	other than	1(1)	apart from; except
+Elements	outside of	2(1a)	apart from
+Elements	with the exception of	1(1)	except; not including
+Elements,Material	of	17(8)	indicating the material or substance constituting something
+EndState	into	6(6)	expressing a change of state
+EndState	into	7(7)	expressing the result of an action
+EndState	to	6(2a)	expressing the result of a process or action
+EndState	to	7(2b)	governing a phrase expressing someone's reaction to something
+EndState,State	to	5(2)	approaching or reaching (a particular condition)
+EndTime	thro'	11(4)	up to and including (a particular point in an ordered sequence)
+EndTime	through	11(4)	up to and including (a particular point in an ordered sequence)
+EndTime	thru	11(4)	up to and including (a particular point in an ordered sequence)
+EndTime	till	1(1)	up to (the point in time or the event mentioned)
+EndTime	until	1(1)	up to (the point in time or the event mentioned)
+EndTime	up to	2(1a)	until
+Explanation	after	1(1)-1	following in time and resulting from (an event or activity)
+Explanation	because of	1(1)	on account of; by reason of
+Explanation	by virtue of	1(1)	because of; as a result of
+Explanation	due to	2(2)	caused by or ascribable to
+Explanation	on account of	1(1)	because of
+Explanation	out of	2(1a)	having (the thing mentioned) as a motivation
+Explanation	owing to	1(1)	because of or on account of
+Explanation	thanks to	1(1)	as a result of; due to
+Explanation,Manner,State,Topic	on	9(3a)	having (the thing mentioned) as a basis
+Extent	by	12(3)	indicating the amount or size of a margin
+Extent	for	13(11)	indicating the extent of (a distance)
+Extent	thro'	6(1e)	expressing the extent of turning from one orientation to another
+Extent	through	6(1e)	expressing the extent of turning from one orientation to another
+Extent	thru	6(1e)	expressing the extent of turning from one orientation to another
+Extent,Value	o'	4(2)	expressing the relationship between a scale or measure and a value
+Extent,Value	of	4(2)	expressing the relationship between a scale or measure and a value
+Frequency	after	2(1a)	(in phrases indicating something happening continuously or repeatedly) in the time following (an event or another period of time)
+Frequency	by	14(3b)	in phrases indicating something happening repeatedly or progressively, typically with repetition of a unit of time
+Frequency	for	14(12)	indicating an occasion in a series
+Frequency,Value	at	5(3)	denoting a particular point or level on a scale
+Function	by	6(2a)	indicating a term to which an interpretation is to be assigned
+Function	for	8(7)	representing (the thing mentioned)
+Function	toward	5(3)	contributing to the cost of
+Function	towards	5(3)	contributing to the cost of
+Goal	'pon	11(5)	having (the thing mentioned) as a target, aim, or focus
+Goal	toward	2(1a)	getting closer to achieving (a goal)
+Goal	towards	2(1a)	getting closer to achieving (a goal)
+Goal	upon	11(5)	having (the thing mentioned) as a target, aim, or focus
+Goal,Patient,Theme	on	11(5)	having (the thing mentioned) as a target, aim, or focus
+Goal,Recipient	at	9(5)	expressing the object of a look, thought, action, or plan
+InitialLocation	off	1(1)	moving away and often down from
+InitialLocation,Location	off	2(2)	situated or leading in a direction away from (a main route or intersection)
+InitialLocation,Location,Source	frae	4(3)	indicating the source or provenance of someone or something
+InitialLocation,StartState	frae	1(1)	indicating the point in space at which a journey, motion, or action starts
+InitialLocation,StartState	from	1(1)	indicating the point in space at which a journey, motion, or action starts
+InitialLocation,StartState,1DTrajectory	out of	6(5)	moving or situated away from (a place)
+Instance	of	9(5)	expressing the relationship between a general category or type and the thing being specified which belongs to such a category
+Instrument	at	11(6)	expressing the means by which something is done
+Instrument,Location,Manner	on	4(1c)	supported by (a part of the body)
+Instrument,Means	with	4(3)	indicating the instrument used to perform an action
+Location	about	4(3)	used to express location in a particular place
+Location	above	2(1a)	extending upwards over
+Location	above	3(1b)	higher than and to one side of; overlooking
+Location	above	4(2)	at a higher level or layer than
+Location	afore	2(2)	in front of
+Location	against	10(4)	in or into physical contact with (something), so as to be supported by or collide with it
+Location	ahead of	1(1)	in front of or before
+Location	among	1(1)	situated more or less centrally in relation to (several other things)
+Location	around	1(1)	on every side of
+Location	at	1(1)	expressing location or arrival in a particular place or position
+Location	atop	1(1)	on the top of
+Location	before	2(2)	in front of
+Location	behind	1(1)	at or to the far side of (something), typically so as to be hidden by it
+Location	behind	3(2)	following or further back than (another member of a moving group)
+Location	below	4(2)	extending underneath
+Location	beneath	1(1)	extending or directly underneath
+Location	beneath	2(1a)	underneath so as to be hidden, covered, or protected by
+Location	beneath	3(2)	at a lower level or layer than
+Location	beside	1(1)	at the side of; next to
+Location	beyond	1(1)	at or to the further side of
+Location	by	18(5)	indicating location of a physical object beside a place or object
+Location	down	4(1c)	at or to (a place)
+Location	fore	2(2)	in front of
+Location	frae	2(1a)	indicating the distance between a particular place and another place used as a point of reference
+Location	frae	8(5)	indicating the point at which an observer is placed
+Location	from	2(1a)	indicating the distance between a particular place and another place used as a point of reference
+Location	from	8(5)	indicating the point at which an observer is placed
+Location	in front of	1(1)	in a position just ahead of or at the front part of
+Location	in front of	2(1a)	in a position facing someone or something
+Location	in the midst of	2(n)	surrounded by; in the middle of
+Location	in	2(1a)	expressing motion with the result that something ends up within or surrounded by something else
+Location	inside of	1(1)	within
+Location	inside	1(1)	situated within the confines of (something)
+Location	inside	2(1a)	moving so as to end up within (something)
+Location	inside	4(1c)	(in soccer, rugby, and other sports) closer to the centre of the field than (another player)
+Location	'mongst	1(1)	situated more or less centrally in relation to (several other things)
+Location	near	1(1)	at or to a short distance away from (a place)
+Location	neath	1(1)	extending or directly underneath
+Location	neath	2(1a)	underneath so as to be hidden, covered, or protected by
+Location	neath	3(2)	at a lower level or layer than
+Location	next to	1(1)	in or into a position immediately to one side of; beside
+Location	o'	8(4)	expressing the relationship between a direction and a point of reference
+Location	o'er	1(1)	extending directly upwards from
+Location	o'er	13(4b)	at the other side of; beyond
+Location	o'er	2(1a)	above so as to co'er or protect
+Location	o'er	4(2)	at a higher level or layer than
+Location	of	8(4)	expressing the relationship between a direction and a point of reference
+Location	off	3(2a)	out at sea from (a place on the coast)
+Location	on top of	1(1)	on the highest point or uppermost surface of
+Location	on top of	5(4)	in close proximity to
+Location	on	1(1)	physically in contact with and supported by (a surface)
+Location	on	15(7a)	while travelling in (a public vehicle)
+Location	on	16(7b)	on to (a public vehicle) with the intention of travelling in it
+Location	on	2(1a)	located somewhere in the general surface area of (a place)
+Location	on	5(1d)	on to
+Location	on	7(2)	forming a distinctive or marked part of the surface of
+Location	out of	7(6)	situated far or at a particular distance from somewhere
+Location	outside of	1(1)	beyond the boundaries of
+Location	outside	1(1)	situated or moving beyond the confines or boundaries of
+Location	outside	3(1b)	(in soccer, rugby, and other sports) closer to the side of the field than (another player)
+Location	over	1(1)	extending directly upwards from
+Location	over	13(4b)	at the other side of; beyond
+Location	over	2(1a)	above so as to cover or protect
+Location	over	4(2)	at a higher level or layer than
+Location	'pon	1(1)	physically in contact with and supported by (a surface)
+Location	'pon	15(7a)	while travelling in (a public vehicle)
+Location	'pon	2(1a)	located somewhere in the general surface area of (a place)
+Location	'pon	7(2)	forming a distinctive or marked part of the surface of
+Location	round	1(1)	on every side of (a focal point)
+Location	thro'	5(1d)	expressing the position or location of something beyond or at the far end of (an opening or an obstacle)
+Location	through	5(1d)	expressing the position or location of something beyond or at the far end of (an opening or an obstacle)
+Location	thru	5(1d)	expressing the position or location of something beyond or at the far end of (an opening or an obstacle)
+Location	to	2(1a)	expressing location, typically in relation to a specified point of reference
+Location	under	1(1)	extending or directly below
+Location	under	2(1a)	below (something covering or protecting)
+Location	under	3(2)	at a lower level or layer than
+Location	under	4(2a)	behind (a physical surface)
+Location	up	4(3)	at or to (a place)
+Location	upon	1(1)	physically in contact with and supported by (a surface)
+Location	upon	15(7a)	while travelling in (a public vehicle)
+Location	upon	2(1a)	located somewhere in the general surface area of (a place)
+Location	upon	7(2)	forming a distinctive or marked part of the surface of
+Location	within	2(1a)	inside the range of (an area or boundary)
+Location	within	3(1b)	inside the range of (a specified action or perception)
+Location	within	5(2)	not further off than (used with distances)
+Location	without	4(3)	outside
+Location,1DTrajectory	above	1(1)	in extended space over and not touching
+Location,1DTrajectory	across	2(2)	expressing position or orientation
+Location,1DTrajectory	around	4(3)-1	on the other side of (a corner or obstacle)
+Location,1DTrajectory	between	1(1)	at, into, or across the space separating (two objects or regions)
+Location,1DTrajectory	betwixt	1(1)	at, into, or across the space separating (two objects or regions)
+Location,1DTrajectory	o'er	3(1b)	extending above (an area) from a vantage point
+Location,1DTrajectory	over	3(1b)	extending above (an area) from a vantage point
+Location,1DTrajectory	past	1(1)	to or on the further side of
+Location,1DTrajectory	round	3(2)	so as to encircle (someone or something)
+Location,1DTrajectory	round	6(3a)	on the other side of (a corner or obstacle)
+Location,2DArea	all over	1(1)	throughout; in every part of
+Location,2DArea	throughout	1(1)	in every part of (a place or object)
+Location,Locus	below	1(1)	at a lower level or layer than
+Location,Locus	on	12(6)	(often followed by a noun without a determiner) having (the thing mentioned) as a medium for transmitting or storing information
+Location,State	beyond	2(1a)	outside the physical limits or range of
+Location,Superset	within	1(1)	inside (something)
+Location,Theme	in	1(1)	expressing the situation of something that is or appears to be enclosed or surrounded by something else
+Locus	among	3(3)	occurring in or shared by (some members of a group or community)
+Locus	before	3(2a)	in front of and required to answer to (a court of law, tribunal, or other authority)
+Locus	'mongst	3(3)	occurring in or shared by (some members of a group or community)
+Locus	on	14(7)	in the course of (a journey)
+Locus	'pon	14(7)	in the course of (a journey)
+Locus	upon	14(7)	in the course of (a journey)
+Locus,Superset	within	4(1c)	inside the bounds set by (a concept, argument, etc.)
+Manner	by	11(2f)	(followed by a noun without a determiner) in various phrases indicating how something happens
+Manner	by	22(8)	used in mild oaths
+Manner	with	7(5)	indicating the manner or attitude in which a person does something
+Material	frae	9(6)	indicating the raw material out of which something is manufactured
+Material	from	9(6)	indicating the raw material out of which something is manufactured
+Material	o'	17(8)	indicating the material or substance constituting something
+Material,Source	out of	1(1)	indicating the source or derivation of something; from
+Means	by	5(2)	indicating the means of achieving something
+Means,Via	via	2(1a)	by way of; through
+Other	afore	3(2a)	in front of and required to answer to (a court of law, tribunal, or other authority)
+Other	fore	3(2a)	in front of and required to answer to (a court of law, tribunal, or other authority)
+Other	'pon	4(1c)	supported by (a part of the body)
+Other	upon	4(1c)	supported by (a part of the body)
+Partitive	o'	3(1b)	(after a number, quantifier, or partitive noun) expressing the relationship between a part and a whole with the word denoting the whole functioning as the head of the phrase
+Partitive	o'	3(1b)-1	used to indicate the contents of a container
+Patient	o'er	6(2b)	expressing authority or control
+Patient	over	6(2b)	expressing authority or control
+Patient,Theme	of	12(6a)	expressing the relationship between a verbal noun and its object
+Possessor	about	5(3a)	used to describe a quality apparent in a person
+Possessor	behind	2(1a)	underlying (something) but not apparent to the observer
+Possessor	on	6(1e)	in the possession of; being carried by
+Possessor	'pon	6(1e)	in the possession of; being carried by
+Possessor	upon	6(1e)	in the possession of; being carried by
+Possessor,ProfessionalAspect,Topic	of	6(3)	indicating an association between two entities, typically one of belonging, in which the first is the head of the phrase and the second is something associated with it
+Possessor,Topic	o'	13(6b)	expressing the relationship between a predicate adjective and its application
+Possessor,Topic	o'	6(3)	indicating an association between two entities, typically one of belonging, in which the first is the head of the phrase and the second is something associated with it
+Possessor,Topic	of	13(6b)	expressing the relationship between a predicate adjective and its application
+ProfessionalAspect	at	12(n)	employed by
+ProfessionalAspect	at	4(2b)	(followed by a noun without a determiner) denoting the time spent by someone attending an educational institution or workplace
+ProfessionalAspect	for	4(3a)	employed by
+ProfessionalAspect	in	8(6)	indicating a profession or a specialization within a profession
+ProfessionalAspect	on	10(4)	as a member of (a committee, jury, or other body)
+ProfessionalAspect	'pon	10(4)	as a member of (a committee, jury, or other body)
+ProfessionalAspect	upon	10(4)	as a member of (a committee, jury, or other body)
+ProfessionalAspect	with	13(8)	employed by
+ProfessionalAspect	with	14(8a)	using the services of
+ProfessionalAspect,Source	from	13(10)	indicating a source of knowledge or the basis for one's judgement
+ProfessionalAspect,State	under	8(4)	dominated or controlled by
+Quantity	of	3(1b)-1	used to indicate the contents of a container
+Quantity,Superset,Whole	of	3(1b)	(after a number, quantifier, or partitive noun) expressing the relationship between a part and a whole with the word denoting the whole functioning as the head of the phrase
+Recipient,Stimulus,Theme	for	2(2)	affecting, with regard to, or in respect of
+Reciprocation,Stimulus,Theme	to	14(6)	concerning or likely to concern (something)
+RelativeTime	after	1(1)	in the time following (an event or another period of time)
+RelativeTime	ahead of	3(1b)	earlier than
+RelativeTime	between	2(2)	in the period separating (two points in time)
+RelativeTime	betwixt	2(2)	in the period separating (two points in time)
+RelativeTime	beyond	4(2)	happening or continuing after (a specified time, stage, or event)
+RelativeTime	by	17(4)	indicating a deadline or the end of a particular time period
+RelativeTime	toward	3(1b)	close or closer to (a particular time)
+RelativeTime	towards	3(1b)	close or closer to (a particular time)
+RelativeTime,StartTime	since	1(1)	in the intervening period between (the time mentioned) and the time under consideration, typically the present
+Scalar/Rank	above	5(2a)	higher in grade or rank than
+Scalar/Rank	above	6(2b)	considered of higher status or worth than; too good for
+Scalar/Rank	above	7(2c)	in preference to
+Scalar/Rank	above	8(2d)	at a higher volume or pitch than
+Scalar/Rank	afore	4(3)	in preference to; rather than
+Scalar/Rank	after	8(4)	next to and following in order or importance
+Scalar/Rank	before	4(3)	in preference to; rather than
+Scalar/Rank	behind	8(5)	less advanced than (someone or something) in achievement or development
+Scalar/Rank	behind	9(6)	having a lower score than (another competitor)
+Scalar/Rank	below	2(1a)	lower in grade or rank than
+Scalar/Rank	beneath	4(2a)	lower in grade or rank than
+Scalar/Rank	beneath	5(2b)	considered of lower status or worth than
+Scalar/Rank	beyond	3(1b)	more extensive or extreme than; further-reaching than
+Scalar/Rank	beyond	6(3a)	above or greater than (a specified amount)
+Scalar/Rank	for	11(9)	in relation to the expected norm of
+Scalar/Rank	fore	4(3)	in preference to; rather than
+Scalar/Rank	neath	4(2a)	lower in grade or rank than
+Scalar/Rank	neath	5(2b)	considered of lower status or worth than
+Scalar/Rank	next to	2(2)	following in order or importance
+Scalar/Rank	o'er	5(2a)	higher in rank than
+Scalar/Rank	o'er	7(2c)	expressing preference
+Scalar/Rank	o'er	8(2d)	expressing majority
+Scalar/Rank	o'er	9(2e)	higher in volume or pitch than
+Scalar/Rank	over	5(2a)	higher in rank than
+Scalar/Rank	over	7(2c)	expressing preference
+Scalar/Rank	over	8(2d)	expressing majority
+Scalar/Rank	over	9(2e)	higher in volume or pitch than
+Scalar/Rank	than	1(1)	introducing the second element in a comparison
+Scalar/Rank	under	6(2c)	lower in grade or rank than
+Scalar/Rank,ValueComparison	above	9(3)	higher than (a specified amount, rate, or norm)
+Scalar/Rank,ValueComparison	below	3(1b)	lower than (a specified amount or standard)
+Source	frae	13(10)	indicating a source of knowledge or the basis for one's judgement
+Source	frae	6(4)	indicating the starting point of a specified range on a scale
+Source	from	6(4)	indicating the starting point of a specified range on a scale
+Speaker	frae	12(9)-1	by or on the part of (someone or something)
+Speaker	o'	7(3a)	expressing the relationship between an author, artist, or composer and their works collectively
+Species	o'	9(5)	expressing the relationship between a general category or type and the thing being specified which belongs to such a category
+Species	of	10(5a)	denoting the genus to which a given thing or quality belongs
+StartState	frae	10(7)-1	identifying the state or condition that one has just left usually on account of awakening or healing
+StartState	from	10(7)-1	identifying the state or condition that one has just left usually on account of awakening or healing
+StartTime	frae	3(2)	indicating the point in time at which a particular process, event, or activity starts
+StartTime	frae	5(3a)	indicating the date at which something was created
+StartTime	from	3(2)	indicating the point in time at which a particular process, event, or activity starts
+StartTime	from	5(3a)	indicating the date at which something was created
+State	all over	3(2)	effusively attentive to
+State	at	7(4)	expressing a particular state or condition
+State	in need of	1(1)	needing (something)
+State	near	3(3)	close to (a state); verging on
+State	off	5(3a)	absent from
+State	off	6(3b)	abstaining from
+State	on	20(10)	regularly taking (a drug or medicine)
+State	out of	5(4)	not having (a particular thing)
+State	'pon	20(10)	regularly taking (a drug or medicine)
+State	under	10(4b)	as a reaction to or undergoing the pressure of (something)
+State	under	12(4d)	used to express grouping or classification
+State	under	13(4e)	within the environment of (a particular operating system)
+State	under	14(5)	undergoing (a process)
+State	under	15(5a)	in a state of
+State	under	5(2b)	behind or hidden behind (an appearance)
+State	under	9(4a)	during the rule of
+State	up to	4(3)	good enough for
+State	up to	5(3a)	capable of or fit for
+State	up to	6(4)	the responsibility or choice of (someone)
+State	upon	20(10)	regularly taking (a drug or medicine)
+Stimulus	at	11(6)-1	denoting the thing that provokes an emotional reaction
+Stimulus	with	11(7b)	indicating the cause of (a condition)
+Superset	among	2(2)	being a member or members of (a larger set)
+Superset	out of	4(3)	from among (a number)
+Superset	outside	2(1a)	not being a member of (a particular group)
+Superset,Value	in	12(9)	expressing a value as a proportion of (a whole)
+Superset,Whole	o'	2(1a)	expressing the relationship between a part and a whole with the word denoting the part functioning as the head of the phrase
+Superset,Whole	of	2(1a)	expressing the relationship between a part and a whole with the word denoting the part functioning as the head of the phrase
+Temporal	by	20(6)	indicating the period in which something happens
+Theme	from	11(8)	indicating prevention
+Theme	with	5(3a)	indicating the material used for a purpose
+Theme,Topic	o'	14(7)	indicating the relationship between a verb and an indirect object
+Theme,Topic	of	14(7)	indicating the relationship between a verb and an indirect object
+Time	around	6(n)	expressing the time when an event takes place
+Time	at	2(2)	expressing the time when an event takes place
+Time	at	3(2a)	(followed by a noun without a determiner) denoting a particular period of time
+Time	near	2(2)	a short period of time from
+Time	on	17(8)	indicating the day or part of a day during which an event takes place
+Time	on	18(8a)	at the time of
+Time	'pon	17(8)	indicating the day or part of a day during which an event takes place
+Time	'pon	18(8a)	at the time of
+Time	upon	17(8)	indicating the day or part of a day during which an event takes place
+Time	upon	18(8a)	at the time of
+Topic	about	2(1a)	so as to affect
+Topic	around	2(1a)	(of something abstract) having (the thing mentioned) as a focal point
+Topic	as regards	1(1)	concerning; in respect of
+Topic	as to	1(1)	with respect to; concerning
+Topic	concerning	1(1)	on the subject of or in connection with; about
+Topic	in terms of	1(1)	with regard to
+Topic	into	5(5)	directed towards; about
+Topic	o'	15(7a)	(with verbs of sensing and cognition) expressing content or object
+Topic	o'er	16(7)	on the subject of
+Topic	of	15(7a)	(with verbs of sensing and cognition) expressing content or object
+Topic	on	8(3)	having (the thing mentioned) as a topic; about
+Topic	over	16(7)	on the subject of
+Topic	'pon	8(3)	having (the thing mentioned) as a topic; about
+Topic	'pon	9(3a)	having (the thing mentioned) as a basis
+Topic	re	2(1a)	about; concerning
+Topic	regarding	1(1)	in respect of; concerning
+Topic	round	2(1a)	(of something abstract) having (the thing mentioned) as a focus
+Topic	upon	8(3)	having (the thing mentioned) as a topic; about
+Topic	upon	9(3a)	having (the thing mentioned) as a basis
+Topic	with	4(3)-1	identifyng the content of a communication
+Value	by	13(3a)	indicating a quantity or amount
+Value	by	16(3d)	expressing multiplication, especially in dimensions
+Value	for	10(8a)	charged as (a price)
+Value	into	8(8)	expressing division
+Value	per	1(1)	for each (used with units to express a rate)
+Value	to	11(4b)	indicating a rate of return on something, for example the distance travelled in exchange for fuel used
+Value	to	12(4c)	indicating the power (exponent) to which a number is raised
+ValueComparison	near	4(3a)	a small amount below (another amount)
+ValueComparison	up to	3(2)	indicating a maximum amount
+Via	o'er	15(6)	expressing the medium by which something is done; by means of
+Via	on	13(6a)	being broadcast by (a radio or television channel)
+Via	over	15(6)	expressing the medium by which something is done; by means of
+Via	'pon	13(6a)	being broadcast by (a radio or television channel)
+Via	thro'	13(5a)	by means of (an intermediary or agent)
+Via	through	13(5a)	by means of (an intermediary or agent)
+Via	thru	13(5a)	by means of (an intermediary or agent)
+Via	upon	13(6a)	being broadcast by (a radio or television channel)
+Via	via	3(1b)	by means of
