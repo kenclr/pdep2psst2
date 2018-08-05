@@ -10,9 +10,12 @@ Initial Data
 - prepwiki.json: Data used to fill the PDEP supersense field, using the TPP_PSST element identifying TPP senses and their supersenses, to synchonize PDEP and prepwiki (<http://www.clres.com/db/syncpsst.php> and <http://www.clres.com/db/syncpsst%20-%20Copy.php>). Also used PSST_SHORT_DEFS as the 75 supersense definitions in psst-v1-defs.txt.
 - psst-v1-pdep-all.tsv: 581 PDEP senses for which supersense field was entered, with (1) the supersense, (2) the preposition, (3) the sense, and (4) the definition of the preposition's sense
 - psst-v1-pdep.txt: 143 distinct supersenses in PDEP (some with single supersense names and some with multiple "conflation" supersenses)
+- pdep-no-psst.tsv: 458 PDEP senses not having a supersense, with (1) a tab, (2) the preposition, (3) the sense, and (4) the definition of the preposition's sense
+- pdeppsst-v1.tsv: All 1075 PDEP senses in alphabetic order, with (1) the supersense, (2) the preposition, (3) the sense, and (4) the definition of the preposition's sense
 
 Data for Mapping v1 to v2 Supersenses
 -------------------------------------
+- psst-v1-wiki.txt: Original 75 supersenses from the PrepWiki
 - psst-v1-defs.txt: Short definitions for the 75 v1 supersenses
 
 
