@@ -1,11 +1,5 @@
 # Updating Supersense Field in PDEP
-Updating supersenses from Schneider et al.
-
-Each PP idiom consists of a multiple word expression (MWE), i.e., containing at least two words. Idioms were obtained from ODE entries either beginning or ending with a preposition from the Pattern Dictionary of English Prepositions (PDEP, <http://www.clres.com/db/TPPEditor.html>). This repository contains a description of the analysis [1] and provides the files supporting the analysis.
-
-This paper characterizes PP idioms, identifies the idiom inventories, discusses their occurrence in the PDEP corpora, identifies entries and senses missing from PDEP, describes how to incorporate new data into PDEP, and considers potential expansion of PDEP corpora. The paper examines the PP idioms in the supersense reviews corpus (<https://github.com/nert-gu/streusle>) in the light of these results.
-
-This paper is a __working paper__. It describes several steps that have been taken in mapping from  not the ultimate consideration of PP idioms, but rather liberally identifies further work that is intended. Any comments, criticisms, and suggestions are __welcome__.
+The Pattern Dictionary of English Prepositions (PDEP, <http://www.clres.com/db/TPPEditor.html>) contains a field that holds supersenses (version 1 as described in [1]). A second version is described in [2] and [3]. Procedures for mapping from version 1 to version 2 are described in [4]. This is a __working paper__ that presents initial steps toward this mapping and provides several files for use in this process. Several further efforts are underway. Any comments, criticisms, and suggestions are __welcome__.
 
 Files
 -----
@@ -23,11 +17,13 @@ Data for Mapping v1 to v2 Supersenses
 
 Reference
 ---------
-- [1] Ken Litkowski. (2018) Updating Supersenses in the Preposition Pattern Dictionary. Working Paper 18-02. Damascus, MD: CL Research <http://www.clres.com/online-papers/PSST2.pdf> or <https://www.overleaf.com/read/xfdyswpwysjq> or <https://github.com/kenclr/pdep2psst2>
+- [1] Nathan Schneider, Jena D. Hwang, Vivek Srikumar, Meredith Green, Abhijit Suresh, Kathryn Conger, Tim O'Gorman, and Martha Palmer. A corpus of preposition supersenses. _Proceedings of the 10th Linguistic Annotation Workshop_, Berlin, Germany, August 11, 2016. <http://people.cs.georgetown.edu/nschneid/p/psstcorpus.pdf>
 
-- [4] Jena D. Hwang, Archna Bhatia, Na-Rae Han, Tim O’Gorman, Vivek Srikumar, and Nathan Schneider. Double trouble: the problem of construal in semantic annotation of adpositions. _Proceedings of the Sixth Joint Conference on Lexical and Computational Semantics_, Vancouver, British Columbia, Canada, August 3–4, 2017. <http://people.cs.georgetown.edu/nschneid/p/prepconstrual2.pdf>
+- [2] Jena D. Hwang, Archna Bhatia, Na-Rae Han, Tim O’Gorman, Vivek Srikumar, and Nathan Schneider. Double trouble: the problem of construal in semantic annotation of adpositions. _Proceedings of the Sixth Joint Conference on Lexical and Computational Semantics_, Vancouver, British Columbia, Canada, August 3–4, 2017. <http://people.cs.georgetown.edu/nschneid/p/prepconstrual2.pdf>
 
-- [5] Nathan Schneider, Jena D. Hwang, Archna Bhatia, Na-Rae Han, Vivek Srikumar, Tim O’Gorman, Sarah R. Moeller, Omri Abend, Austin Blodgett, and Jakob Prange (July 2, 2018). Adposition and Case Supersenses v2: Guidelines for English. arXiv preprint. <https://arxiv.org/abs/1704.02134>
+- [3] Nathan Schneider, Jena D. Hwang, Archna Bhatia, Na-Rae Han, Vivek Srikumar, Tim O’Gorman, Sarah R. Moeller, Omri Abend, Austin Blodgett, and Jakob Prange (July 2, 2018). Adposition and Case Supersenses v2: Guidelines for English. arXiv preprint. <https://arxiv.org/abs/1704.02134>
+
+- [4] Ken Litkowski. (2018) Updating Supersenses in the Preposition Pattern Dictionary. Working Paper 18-02. Damascus, MD: CL Research <http://www.clres.com/online-papers/PSST2.pdf> or <https://www.overleaf.com/read/xfdyswpwysjq> or <https://github.com/kenclr/pdep2psst2>
 
 - __[7] Nathan Schneider, Jena D. Hwang, Vivek Srikumar, Jakob Prange, Austin Blodgett, Sarah R. Moeller, Aviram Stern, Adi Bitan, and Omri Abend. Comprehensive supersense disambiguation of English prepositions and possessives. _Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics_, Melbourne, Australia, July 15–20, 2018. <http://people.cs.georgetown.edu/nschneid/p/pssdisambig.pdf>__
 
