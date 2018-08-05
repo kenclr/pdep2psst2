@@ -8,7 +8,8 @@ Files
 Initial Data
 ------------
 - prepwiki.json: Data used to fill the PDEP supersense field, using the TPP_PSST element identifying TPP senses and their supersenses, to synchonize PDEP and prepwiki (<http://www.clres.com/db/syncpsst.php> and <http://www.clres.com/db/syncpsst%20-%20Copy.php>). Also used PSST_SHORT_DEFS as the 75 supersense definitions in psst-v1-defs.txt.
-- pp-final.txt: 2785 entries ending with a PDEP preposition (potentially idiomatic), with senses, a part of speech, and a definition
+- psst-v1-pdep-all.tsv: 581 PDEP senses for which supersense field was entered
+- psst-v1-pdep.txt: 143 distinct supersenses in PDEP (some with single supersense names and some with multiple "conflation" supersenses)
 
 Data for Mapping v1 to v2 Supersenses
 -------------------------------------
