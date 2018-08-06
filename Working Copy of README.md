@@ -26,6 +26,7 @@ Mapping Analyses
 ----------------
 - psst-v1-same.txt: The 36 supersenses having the same name in v1 and v2, with an assessment of their equality
 - psst-v1-merged.txt: The 39 supersenses in v1 not in v2 and that need to be merged into v2, with an initial map from v1 to v2
+- psst-v1-to-v2.txt: 
 
 Reference
 ---------
