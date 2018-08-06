@@ -19,7 +19,8 @@ Data for Mapping v1 to v2 Supersenses
 - psst-v1-pdep-pure.txt: PDEP v1 supersense fields containing a single (pure) supersense
 - psst-v1-pdep-conf.txt: PDEP v1 supersense fields containing a conflated supersense (containing two or more supersenses)
 - psst-v1-defs.txt: Short definitions for the 75 v1 supersenses
-
+- psst-v2.txt: The v2 supersenses (from [3])
+- psst-v2-defs.tsv: Short definitions for the 50 v2 supersenses (from [3]), with (1) the hierarchical position for the supersense, (2) the supersense name, and (3) the definition from the supersense box)
 
 Reference
 ---------
