@@ -1,0 +1,50 @@
+4.5	Accompanier	Entity that another entity is together with.
+3.1.1	Agent	Animate instigator of an action (typically volitional).
+4.9.1	Approximator	An ``operator'' that semantically takes a measurement, quantity, or range as an argument and ``transforms'' it in some way into a new measurement, quantity, or range.
+3.8	Beneficiary	Animate or personified undergoer that is (potentially) advantaged or disadvantaged by the event or state.
+3.1	Causer	Instigator of, and a core participant in, an event.
+4.4	Characteristic	Generalized notion of a part, feature, possession, or the contents or composition of something, understood with respect to that thing (the "Gestalt").
+2	Circumstance	Macrolabel for labels pertaining to space and time, and other relations that are usually semantically non-core properties of events.
+3.1.1.1	Co-Agent	Second semantically core participant that would otherwise be labeled "Agent", but which is adpositionally marked in contrast with an "Agent" occupying a non-oblique syntactic position (subject or object). Typically, the "Agent" and "Co-Agent" engage in the event in a reciprocal fashion.
+4.7	ComparisonRef	The reference point in an explicit comparison (or contrast), i.e., an expression indicating that something is "similar/analogous to", "different from", or "the same as" something else.
+4	Configuration	Thing, usually an entity or property, that is involved in a static relationship to some other entity.
+3.7	Cost	An amount (typically of money) that is linked to an item or service that it pays for/could pay for, or given as the amount earned or owed.
+3.2.1	Co-Theme	Second semantically core undergoer that would otherwise be labeled "Theme", but which is adpositionally marked in contrast with a "Theme" occupying a non-oblique syntactic position (subject or object).
+2.3.1	Direction	How motion or an object is aimed/oriented.
+2.1.3	Duration	Indication of "how long" an event or state lasts (with reference to an amount of time or time period/larger event that it spans).
+2.1.1.2	EndTime	When the event denoted by the governor finishes.
+3.4	Experiencer	Animate who is aware of a bodily experience, perception, emotion, or mental state.
+2.6	Explanation	Assertion of "why" something happens or is the case.
+2.3.2	Extent	The size of a path, amount of change, or degree.
+2.1.2	Frequency	"At what rate" something happens or continues, or the instance of repetition that the event represents.
+4.3	Gestalt	Generalized notion of ``whole'' understood with reference to a component part, possession, set member, or characteristic. See "Characteristic".
+2.2.2	Goal	Final location (destination), condition, or value. May be abstract.
+4.1	Identity	A category being ascribed to something, or something belonging to the category denoted by the governor.
+4.6	InsteadOf	A default or already established thing for which something else stands in or is chosen as an alternative.
+3.9	Instrument	An entity that facilitates an action by applying intermediate causal force.
+2.1.4	Interval	A marker that points retrospectively or prospectively in time, and if transitive, marks the time elapsed between two points in time.
+2.2	Locus	Location, condition, or value. May be abstract.
+2.5	Manner	The style in which an event unfolds, the form that something takes, or the condition that something is in.
+2.4	Means	Secondary action or event that characterizes "how" the main event happens or is achieved.
+4.10.1	OrgRole	Either party in a relation between an organization/institution and an individual who has a stable affiliation with that organization, such as membership or a business relationship.
+3.5	Originator	Animate who is the initial possessor or creator/producer of something, including the speaker/communicator of information. Excludes events where transfer/communication is not framed as unidirectional.
+3	Participant	Thing, usually an entity, that plays a causal role in an event.
+4.4.2	PartPortion	A part, portion, subevent, subset, or set element (e.g., an example or exception) of some "Whole".
+2.3	Path	The ground that must be covered in order for the motion to be complete.
+4.4.1	Possession	That which some "Possessor" (animate or personified, e.g.~an institution) "has", and which is not part of their body or inherent to their identity/character but could, in principle, be taken away.
+4.3.1	Possessor	Animate who "has" something (the "Possession") which is not part of their body or inherent to their identity/character but could, in principle, be taken away.
+2.6.1	Purpose	Something that somebody wants to bring about, asserted to be why something was done, is the case, or exists.
+4.9	Quantity	Something measured by a quantity denoted by the governor.
+4.8	RateUnit	Unit of measure in a rate expression.
+3.6	Recipient	Animate who is the (actual or intended) final possessor of a thing or message. Excludes events where transfer/communication is not framed as unidirectional.
+4.10	SocialRel	Entity, such as an institution or another individual, with which an individual has a stable affiliation.
+2.2.1	Source	Initial location, condition, or value. May be abstract.
+4.2	Species	A category qualified by \w{sort}, \w{type}, \w{kind}, \w{species}, \w{breed}, etc. Includes \w{variety}, \w{selection}, \w{range}, \w{assortment}, etc. meaning `many different kinds'.
+2.1.1.1	StartTime	When the event denoted by the governor begins.
+3.3	Stimulus	That which is perceived or experienced (bodily, perceptually, or emotionally).
+4.4.2.1	Stuff	The members comprising a group/ensemble, or the material comprising some unit of substance. "Stuff" is distinguished from other instances of "PartPortion" in fully covering (or ``summarizing'') the aggregate whole.
+2.1	Temporal	Abstract supercategory for temporal descriptions: "when", "for how long", "how often", "how many times", etc. something happened or will happen.
+3.2	Theme	Undergoer that is a semantically core participant in an event or state, and that does not meet the criteria for any other label.
+2.1.1	Time	"When" something happened or will happen, in relation to an explicit or implicit reference time or event.
+3.2.2	Topic	Information content or subject matter in communication or cognition, or the matter something pertains to.
+4.3.2	Whole	Something described with respect to its part, portion, subevent, subset, or set element. See "PartPortion".
