@@ -16,6 +16,8 @@ Initial Data
 Data for Mapping v1 to v2 Supersenses
 -------------------------------------
 - psst-v1-wiki.txt: Original 75 supersenses from the PrepWiki
+- psst-v1-pdep-pure.txt: PDEP v1 supersense fields containing a single (pure) supersense
+- psst-v1-pdep-conf.txt: PDEP v1 supersense fields containing a conflated supersense (containing two or more supersenses)
 - psst-v1-defs.txt: Short definitions for the 75 v1 supersenses
 
 
