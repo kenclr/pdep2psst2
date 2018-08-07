@@ -11,40 +11,40 @@ Conf	1	Activity,Co-Theme,Beneficiary,Recipient,Theme,Topic	Beneficiary,Co-Theme,
 Conf	1	Activity,Locus,Superset	Locus,Topic
 Map1	3	Age	Characteristic
 OneLeft	1	Age,State	Characteristic
-Same	2	Agent
+Same	2	Agent	Agent
 Conf	1	Agent,Causer,Stimulus	Agent,Causer,Stimulus
 Conf	1	Agent,Possessor	Agent,Possessor
-Same	7	Approximator
+Same	7	Approximator	Approximator
 Conf	1	Approximator,Time	Approximator,Time
 Map1	11	Attribute	Characteristic
 OneLeft	1	Attribute,Elements	Characteristic
 Conf	1	Attribute,Function,Purpose,Theme	Characteristic,Purpose,Theme
 Conf	1	Attribute,Instrument	Characteristic,Instrument
 Conf	1	Attribute,Stimulus,Topic	Characteristic,Stimulus,Topic
-Same	7	Beneficiary
+Same	7	Beneficiary	Beneficiary
 Conf	1	Beneficiary,Donor/Speaker	Beneficiary,Originator
 Conf	1	Beneficiary,Experiencer	Beneficiary,Experiencer
 Conf	1	Beneficiary,Experiencer,Patient	Beneficiary,Experiencer,Theme
 Conf	1	Beneficiary,Experiencer,Theme,Topic	Beneficiary,Experiencer,Theme,Topic
 Conf	1	Beneficiary,Goal,Recipient	Beneficiary,Goal,Recipient
 Conf	2	Beneficiary,Topic	Beneficiary,Topic
-NotPW	2	Cause
-Same	2	Causer
+NotPW	2	Cause	None
+Same	2	Causer	Causer
 Conf	1	Causer,Stimulus	Causer,Stimulus
-Same	12	Circumstance
+Same	12	Circumstance	Circumstance
 Conf	1	Circumstance,Explanation,Purpose,Reciprocation	Circumstance,Explanation,Purpose
 Conf	1	Circumstance,Manner	Circumstance,Manner
 OneLeft	1	Circumstance,State	Circumstance
 Map1	4	ClockTimeCxn	Time
 Ident	1	ClockTimeCxn,RelativeTime	Time
-Same	5	Co-Agent
+Same	5	Co-Agent	Co-Agent
 Conf	1	Co-Agent,Co-Theme	Co-Agent,Co-Theme
 Conf	3	Co-Agent,Co-Theme,Co-Patient	Co-Agent,Co-Theme
-Same	1	Co-Theme
+Same	1	Co-Theme	Co-Theme
 Conf	2	Co-Theme,InitialLocation,StartState	Co-Theme,Source
 Conf	1	Co-Theme,ProfessionalAspect	Co-Theme,SocialRel
 Conf	1	Co-Theme,Theme	Co-Theme,Theme
-Removed	23	Comparison/Contrast
+Removed	23	Comparison/Contrast	Comparison/Contrast
 OneLeft	1	Comparison/Contrast,EndState,EndTime	EndTime
 Conf	1	Contour,Manner	Manner,Path
 Map1	4	Course	Path
@@ -61,25 +61,25 @@ Map1	14	Destination	Goal
 Conf	2	Destination,Locus	Goal,Locus
 Conf	1	Destination,Time	Goal,Time
 Conf	2	Destinaton,1DTrajectory	Goal,Path
-Same	5	Direction
+Same	5	Direction	Direction
 Conf	1	Direction,InitialLocation,Source	Direction,Source
 Conf	1	Donor/Speaker,InitialLocation,Location,ProfessionalAspect,Source,Super	Locus,Originator,SocialRel,Source
 Conf	1	Donor/Speaker,Source	Originator,Source
-Same	14	Duration
+Same	14	Duration	Duration
 OneLeft	1	Duration,State	Duration
-NotDisc	14	Elements
+NotDisc	14	Elements	None
 OneLeft	1	Elements,Material	Source
-Removed	4	EndState
-Removed	1	EndState,State
-Same	6	EndTime
-Same	8	Explanation
+Removed	4	EndState	None
+Removed	1	EndState,State	None
+Same	6	EndTime	EndTime
+Same	8	Explanation	Explanation
 Conf	1	Explanation,Manner,State,Topic	Explanation,Manner,Topic
-Same	5	Extent
+Same	5	Extent	Extent
 OneLeft	2	Extent,Value	Extent
-Same	3	Frequency
-OneLeft	1	Frequency,Value
+Same	3	Frequency	Frequency
+OneLeft	1	Frequency,Value	Frequency,Value
 Map1	4	Function	Purpose
-Same	4	Goal
+Same	4	Goal	Goal
 Conf	1	Goal,Patient,Theme	Goal,Theme
 Conf	1	Goal,Recipient	Goal,Recipient
 Map1	1	InitialLocation	Source
@@ -88,7 +88,7 @@ Conf	1	InitialLocation,Location,Source	Locus,Source
 OneLeft	2	InitialLocation,StartState	Source
 Conf	1	InitialLocation,StartState,1DTrajectory	Path,Source
 Map1	1	Instance	Identity
-Same	1	Instrument
+Same	1	Instrument	Instrument
 Conf	1	Instrument,Location,Manner	Instrument,Locus,Manner
 Conf	1	Instrument,Means	Instrument,Means
 Map1	86	Location	Locus
@@ -98,46 +98,46 @@ Ident	2	Location,Locus	Locus
 OneLeft	1	Location,State	Locus
 OneLeft	1	Location,Superset	Locus
 Conf	1	Location,Theme	Locus,Theme
-Same	6	Locus
+Same	6	Locus	Locus
 OneLeft	1	Locus,Superset	Locus
-Same	3	Manner
+Same	3	Manner	Manner
 Map1	3	Material	Source
 Ident	1	Material,Source	Source
-Same	1	Means
+Same	1	Means	Means
 Conf	1	Means,Via	Means,Path
-NotPW	4	Other
-NotPW	2	Partitive
+NotPW	4	Other	None
+NotPW	2	Partitive	None
 Map1	2	Patient	Theme
 Ident	1	Patient,Theme	Theme
-Same	5	Possessor
+Same	5	Possessor	Possessor
 Conf	1	Possessor,ProfessionalAspect,Topic	Possessor,SocialRel,Topic
 Conf	3	Possessor,Topic	Possessor,Topic
 Map1	9	ProfessionalAspect	SocialRel
 Conf	1	ProfessionalAspect,Source	SocialRel,Source
 OneLeft	1	ProfessionalAspect,State	SocialRel
-Same	1	Quantity
+Same	1	Quantity	Quantity
 Conf	1	Quantity,Superset,Whole	Quantity,Whole
 Conf	1	Recipient,Stimulus,Theme	Recipient,Stimulus,Theme
 Conf	1	Reciprocation,Stimulus,Theme	Reciprocation,Stimulus,Theme
 Map1	8	RelativeTime	Time
 Conf	1	RelativeTime,StartTime	StartTime,Time
-Removed	29	Scalar/Rank
-Removed	2	Scalar/Rank,ValueComparison
-Same	3	Source
-NotPW	2	Speaker
-Same	2	Species
-Removed	2	StartState
-Same	4	StartTime
-Removed	20	State
-Same	2	Stimulus
-NotDisc	3	Superset
-Removed	1	Superset,Value
+Removed	29	Scalar/Rank	None
+Removed	2	Scalar/Rank,ValueComparison	None
+Same	3	Source	Source
+NotPW	2	Speaker	None
+Same	2	Species	Species
+Removed	2	StartState	None
+Same	4	StartTime	StartTime
+Removed	20	State	None
+Same	2	Stimulus	Stimulus
+NotDisc	3	Superset	None
+Removed	1	Superset,Value	None
 OneLeft	2	Superset,Whole	Whole
-Same	1	Temporal
-Same	2	Theme
+Same	1	Temporal	Temporal
+Same	2	Theme	Theme
 Conf	2	Theme,Topic	Theme,Topic
-Same	10	Time
-Same	20	Topic
-Removed	7	Value
-Removed	2	ValueComparison
+Same	10	Time	Time
+Same	20	Topic	Topic
+Removed	7	Value	None
+Removed	2	ValueComparison	None
 Map1	9	Via	Path
