@@ -1,0 +1,143 @@
+Map1	28	1DTrajectory	Path
+Ident	1	1DTrajectory,2DArea	Path
+Map1	2	2DArea	Path
+OneLeft	1	2DArea,State	Path
+Map1	7	3DMedium	Path
+Same	4	Accompanier	Accompanier
+Conf	1	Accompanier,Co-Participant	Accompanier,Participant
+Map1	7	Activity	Topic
+Conf	1	Activity,Attribute,Patient,Stimulus,Topic	Characteristic,Stimulus,Theme,Topic
+Conf	1	Activity,Co-Theme,Beneficiary,Recipient,Theme,Topic	Beneficiary,Co-Theme,Recipient,Theme,Topic
+Conf	1	Activity,Locus,Superset	Locus,Topic
+Map1	3	Age	Characteristic
+OneLeft	1	Age,State	Characteristic
+Same	2	Agent
+Conf	1	Agent,Causer,Stimulus	Agent,Causer,Stimulus
+Conf	1	Agent,Possessor	Agent,Possessor
+Same	7	Approximator
+Conf	1	Approximator,Time	Approximator,Time
+Map1	11	Attribute	Characteristic
+OneLeft	1	Attribute,Elements	Characteristic
+Conf	1	Attribute,Function,Purpose,Theme	Characteristic,Purpose,Theme
+Conf	1	Attribute,Instrument	Characteristic,Instrument
+Conf	1	Attribute,Stimulus,Topic	Characteristic,Stimulus,Topic
+Same	7	Beneficiary
+Conf	1	Beneficiary,Donor/Speaker	Beneficiary,Originator
+Conf	1	Beneficiary,Experiencer	Beneficiary,Experiencer
+Conf	1	Beneficiary,Experiencer,Patient	Beneficiary,Experiencer,Theme
+Conf	1	Beneficiary,Experiencer,Theme,Topic	Beneficiary,Experiencer,Theme,Topic
+Conf	1	Beneficiary,Goal,Recipient	Beneficiary,Goal,Recipient
+Conf	2	Beneficiary,Topic	Beneficiary,Topic
+NotPW	2	Cause
+Same	2	Causer
+Conf	1	Causer,Stimulus	Causer,Stimulus
+Same	12	Circumstance
+Conf	1	Circumstance,Explanation,Purpose,Reciprocation	Circumstance,Explanation,Purpose
+Conf	1	Circumstance,Manner	Circumstance,Manner
+OneLeft	1	Circumstance,State	Circumstance
+Map1	4	ClockTimeCxn	Time
+Ident	1	ClockTimeCxn,RelativeTime	Time
+Same	5	Co-Agent
+Conf	1	Co-Agent,Co-Theme	Co-Agent,Co-Theme
+Conf	3	Co-Agent,Co-Theme,Co-Patient	Co-Agent,Co-Theme
+Same	1	Co-Theme
+Conf	2	Co-Theme,InitialLocation,StartState	Co-Theme,Source
+Conf	1	Co-Theme,ProfessionalAspect	Co-Theme,SocialRel
+Conf	1	Co-Theme,Theme	Co-Theme,Theme
+Removed	23	Comparison/Contrast
+OneLeft	1	Comparison/Contrast,EndState,EndTime	EndTime
+Conf	1	Contour,Manner	Manner,Path
+Map1	4	Course	Path
+Conf	4	Course,Location	Locus,Path
+Conf	3	Course,Means,Via	Means,Path
+Ident	1	Course,Transit	Path
+Map1	2	Creator	Originator
+Map1	3	DeicticTime	Interval
+Conf	1	DeicticTime,Duration	Duration,Interval
+Conf	2	DeicticTime,Location	Interval,Locus
+Conf	3	DeicticTime,RelativeTime	Interval,Time
+Conf	1	DeicticTime,Time	Interval,Time
+Map1	14	Destination	Goal
+Conf	2	Destination,Locus	Goal,Locus
+Conf	1	Destination,Time	Goal,Time
+Conf	2	Destinaton,1DTrajectory	Goal,Path
+Same	5	Direction
+Conf	1	Direction,InitialLocation,Source	Direction,Source
+Conf	1	Donor/Speaker,InitialLocation,Location,ProfessionalAspect,Source,Super	Locus,Originator,SocialRel,Source
+Conf	1	Donor/Speaker,Source	Originator,Source
+Same	14	Duration
+OneLeft	1	Duration,State	Duration
+NotDisc	14	Elements
+OneLeft	1	Elements,Material	Source
+Removed	4	EndState
+Removed	1	EndState,State
+Same	6	EndTime
+Same	8	Explanation
+Conf	1	Explanation,Manner,State,Topic	Explanation,Manner,Topic
+Same	5	Extent
+OneLeft	2	Extent,Value	Extent
+Same	3	Frequency
+OneLeft	1	Frequency,Value
+Map1	4	Function	Purpose
+Same	4	Goal
+Conf	1	Goal,Patient,Theme	Goal,Theme
+Conf	1	Goal,Recipient	Goal,Recipient
+Map1	1	InitialLocation	Source
+Conf	1	InitialLocation,Location	Locus,Source
+Conf	1	InitialLocation,Location,Source	Locus,Source
+OneLeft	2	InitialLocation,StartState	Source
+Conf	1	InitialLocation,StartState,1DTrajectory	Path,Source
+Map1	1	Instance	Identity
+Same	1	Instrument
+Conf	1	Instrument,Location,Manner	Instrument,Locus,Manner
+Conf	1	Instrument,Means	Instrument,Means
+Map1	86	Location	Locus
+Conf	10	Location,1DTrajectory	Locus,Path
+Conf	2	Location,2DArea	Locus,Path
+Ident	2	Location,Locus	Locus
+OneLeft	1	Location,State	Locus
+OneLeft	1	Location,Superset	Locus
+Conf	1	Location,Theme	Locus,Theme
+Same	6	Locus
+OneLeft	1	Locus,Superset	Locus
+Same	3	Manner
+Map1	3	Material	Source
+Ident	1	Material,Source	Source
+Same	1	Means
+Conf	1	Means,Via	Means,Path
+NotPW	4	Other
+NotPW	2	Partitive
+Map1	2	Patient	Theme
+Ident	1	Patient,Theme	Theme
+Same	5	Possessor
+Conf	1	Possessor,ProfessionalAspect,Topic	Possessor,SocialRel,Topic
+Conf	3	Possessor,Topic	Possessor,Topic
+Map1	9	ProfessionalAspect	SocialRel
+Conf	1	ProfessionalAspect,Source	SocialRel,Source
+OneLeft	1	ProfessionalAspect,State	SocialRel
+Same	1	Quantity
+Conf	1	Quantity,Superset,Whole	Quantity,Whole
+Conf	1	Recipient,Stimulus,Theme	Recipient,Stimulus,Theme
+Conf	1	Reciprocation,Stimulus,Theme	Reciprocation,Stimulus,Theme
+Map1	8	RelativeTime	Time
+Conf	1	RelativeTime,StartTime	StartTime,Time
+Removed	29	Scalar/Rank
+Removed	2	Scalar/Rank,ValueComparison
+Same	3	Source
+NotPW	2	Speaker
+Same	2	Species
+Removed	2	StartState
+Same	4	StartTime
+Removed	20	State
+Same	2	Stimulus
+NotDisc	3	Superset
+Removed	1	Superset,Value
+OneLeft	2	Superset,Whole	Whole
+Same	1	Temporal
+Same	2	Theme
+Conf	2	Theme,Topic	Theme,Topic
+Same	10	Time
+Same	20	Topic
+Removed	7	Value
+Removed	2	ValueComparison
+Map1	9	Via	Path
