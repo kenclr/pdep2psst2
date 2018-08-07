@@ -1,0 +1,36 @@
+Accompanier	Identical
+Agent	Changed wording, but seem to be the same
+Approximator	Changed wording, but seem to be the same
+Beneficiary	Identical
+Causer	Changed wording, but seem to be the same
+Circumstance	Changed wording, but seem to be the same
+Co-Agent	More elaborate in V2, but probably the same
+Configuration	Changed wording, but seem to be the same
+Co-Theme	Changed wording, but seem to be the same
+Direction	Changed wording, but seem to be the same
+Duration	Changed wording, but seem to be the same
+EndTime	Changed wording, but seem to be the same
+Experiencer	Changed wording, but seem to be the same
+Explanation	More elaborate in V2, but probably the same
+Extent	More elaborate in V2, but probably the same
+Frequency	More elaborate in V2, but probably the same
+Goal	Changed wording, but seem to be the same
+Instrument	Changed wording, but seem to be the same
+Locus	More elaborate in V2, but probably the same
+Manner	More elaborate in V2, but probably the same
+Means	More elaborate in V2, but probably the same
+Participant	More elaborate in V2, but probably the same
+Path	Changed wording, but seem to be the same
+Possessor	More elaborate in V2, but probably the same
+Purpose	More elaborate in V2, but probably the same
+Quantity	Less elaborate in V2, but probably the same
+Recipient	More elaborate in V2, but probably the same
+Source	More elaborate in V2, but probably the same
+Species	More elaborate in V2, but probably the same
+StartTime	Changed wording, but seem to be the same
+Stimulus	Identical
+Temporal	More elaborate in V2, but probably the same
+Theme	Changed wording, but seem to be the same
+Time	More elaborate in V2, but probably the same
+Topic	More elaborate in V2, but probably the same
+Whole	More elaborate in V2, but probably the same
