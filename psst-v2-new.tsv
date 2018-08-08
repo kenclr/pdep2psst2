@@ -44,7 +44,7 @@ Same	1	Co-Theme	Co-Theme
 Conf	2	Co-Theme,InitialLocation,StartState	Co-Theme,Source
 Conf	1	Co-Theme,ProfessionalAspect	Co-Theme,SocialRel
 Conf	1	Co-Theme,Theme	Co-Theme,Theme
-Removed	23	Comparison/Contrast	Comparison/Contrast
+Removed	23	Comparison/Contrast	None
 OneLeft	1	Comparison/Contrast,EndState,EndTime	EndTime
 Conf	1	Contour,Manner	Manner,Path
 Map1	4	Course	Path
