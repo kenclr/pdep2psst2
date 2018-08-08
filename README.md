@@ -27,6 +27,8 @@ Mapping Analyses
 - psst-v1-same.txt: The 36 supersenses having the same name in v1 and v2, with an assessment of their equality
 - psst-v1-merged.txt: The 39 supersenses in v1 not in v2 and that need to be merged into v2, with an initial map from v1 to v2
 - psst-v2-new.tsv: The 143 distinct PDEP v1 supersenses mapped into v2, characterizing the type of mapping, with (1) the type, (2) the number of PDEP senses with the v1 supersenses, (3) the original PDEP supersense, and (4) the potential v2 supersense
+- psst-v2-refined.txt: The 127 distinct v2 supersenses mapped from the v1 supersenses
+- psst-v2-final.txt: The 89 unique v2 supersenses (removing duplicates), with 37 pure supersenses and 52 conflated supersenses
 
 Reference
 ---------
