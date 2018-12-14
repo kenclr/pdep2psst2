@@ -1,5 +1,5 @@
 # Updating Supersense Field in PDEP
-The Pattern Dictionary of English Prepositions (PDEP, <http://www.clres.com/db/TPPEditor.html>) contains a field that holds supersenses (version 1 as described in [1]). A second version is described in [2] and [3]. Procedures for mapping from version 1 to version 2 are described in [4]. This repository contains a description of the analysis [4] and provides the files supporting the analysis. This is a __working paper__ that presents initial steps toward this mapping and provides several files for use in this process. Several further efforts are underway. Any comments, criticisms, and suggestions are __welcome__.
+The Pattern Dictionary of English Prepositions (PDEP, <http://www.clres.com/db/TPPEditor.html>) contains a field that holds supersenses (version 1 as described in [1]). A second version is described in [2], [3], and [4] Procedures for mapping from version 1 to version 2 are described in [5]. This repository contains a description of the analysis [5] and provides the files supporting the analysis. This is a __working paper__ that presents initial steps toward this mapping and provides several files for use in this process. Several further efforts are underway. Any comments, criticisms, and suggestions are __welcome__.
 
 Files
 -----
@@ -34,11 +34,13 @@ Reference
 ---------
 - [1] Nathan Schneider, Jena D. Hwang, Vivek Srikumar, Meredith Green, Abhijit Suresh, Kathryn Conger, Tim O'Gorman, and Martha Palmer. A corpus of preposition supersenses. _Proceedings of the 10th Linguistic Annotation Workshop_, Berlin, Germany, August 11, 2016. <http://people.cs.georgetown.edu/nschneid/p/psstcorpus.pdf>
 
-- [2] Jena D. Hwang, Archna Bhatia, Na-Rae Han, Tim O’Gorman, Vivek Srikumar, and Nathan Schneider. Double trouble: the problem of construal in semantic annotation of adpositions. _Proceedings of the Sixth Joint Conference on Lexical and Computational Semantics_, Vancouver, British Columbia, Canada, August 3–4, 2017. <http://people.cs.georgetown.edu/nschneid/p/prepconstrual2.pdf>
+- [2] Jena D. Hwang, Archna Bhatia, Na-Rae Han, Tim Oâ€™Gorman, Vivek Srikumar, and Nathan Schneider. Double trouble: the problem of construal in semantic annotation of adpositions. _Proceedings of the Sixth Joint Conference on Lexical and Computational Semantics_, Vancouver, British Columbia, Canada, August 3â€“4, 2017. <http://people.cs.georgetown.edu/nschneid/p/prepconstrual2.pdf>
 
-- [3] Nathan Schneider, Jena D. Hwang, Archna Bhatia, Na-Rae Han, Vivek Srikumar, Tim O’Gorman, Sarah R. Moeller, Omri Abend, Austin Blodgett, and Jakob Prange (July 2, 2018). Adposition and Case Supersenses v2: Guidelines for English. arXiv preprint. <https://arxiv.org/abs/1704.02134>
+- [3] Nathan Schneider, Jena D. Hwang, Archna Bhatia, Na-Rae Han, Vivek Srikumar, Tim Oâ€™Gorman, Sarah R. Moeller, Omri Abend, Austin Blodgett, and Jakob Prange (July 2, 2018). Adposition and Case Supersenses v2: Guidelines for English. arXiv preprint. <https://arxiv.org/abs/1704.02134>
 
-- [4] Ken Litkowski. (2018) Updating Supersenses in the Preposition Pattern Dictionary. Working Paper 18-02. Damascus, MD: CL Research <http://www.clres.com/online-papers/PSST2.pdf> or <https://www.overleaf.com/read/xfdyswpwysjq> or <https://github.com/kenclr/pdep2psst2>
+- [4] Nathan Schneider, Jena D. Hwang, Vivek Srikumar, Jakob Prange, Austin Blodgett, Sarah R. Moeller, Aviram Stern, Adi Bitan, and Omri Abend. (2018). Comprehensive Supersense Disambiguation of English Prepositions and Possessives. _Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)_ Association for Computational Linguistics, Melbourne, Australia <http://aclweb.org/anthology/P18-1018>
+
+- [5] Ken Litkowski. (2018) Updating Supersenses in the Preposition Pattern Dictionary. Working Paper 18-02. Damascus, MD: CL Research <http://www.clres.com/online-papers/PSST2.pdf> or <https://www.overleaf.com/read/xfdyswpwysjq> or <https://github.com/kenclr/pdep2psst2>
 
 Contact
 -------
