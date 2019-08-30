@@ -1,5 +1,5 @@
 # Updating Supersense Field in PDEP
-The Pattern Dictionary of English Prepositions (PDEP, <http://www.clres.com/db/TPPEditor.html>) contains a field that holds supersenses (version 1 as described in [1]). A second version is described in [2], [3], and [4] Procedures for mapping from version 1 to version 2 are described in [5]. This repository contains a description of the analysis [5] and provides the files supporting the analysis. This is a __working paper__ that presents initial steps toward this mapping and provides several files for use in this process. Several further efforts are underway. Any comments, criticisms, and suggestions are __welcome__.
+The Pattern Dictionary of English Prepositions (PDEP, <http://www.clres.com/db/TPPEditor.html>) contains a field that holds supersenses (version 1 as described in [1]). A second version is described in [2], [3], and [4]. Procedures for mapping from version 1 to version 2 are described in [5]. This repository contains a description of the analysis [5] and provides the files supporting the analysis. This is a __working paper__ that presents initial steps toward this mapping and provides several files for use in this process. Several further efforts are underway. Any comments, criticisms, and suggestions are __welcome__.
 
 Files
 -----
